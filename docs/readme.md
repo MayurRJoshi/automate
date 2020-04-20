@@ -10,7 +10,7 @@ You will like those projects!
 
 ---
 
-# h1 Heading 8-)
+# h1 Heading
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
@@ -136,11 +136,13 @@ Right aligned columns
 
 ## Links
 
+[relative link](./guide)
+
+[nested relative link](./guide/nested)
+
 [link text](http://dev.nodeca.com)
 
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 
 ## Images
