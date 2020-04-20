@@ -136,9 +136,9 @@ Right aligned columns
 
 ## Links
 
-[relative link](./guide)
+[relative link](./relative)
 
-[nested relative link](./guide/nested)
+[nested relative link](./relative/nested)
 
 [link text](http://dev.nodeca.com)
 
