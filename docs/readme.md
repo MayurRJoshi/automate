@@ -140,7 +140,7 @@ Right aligned columns
 
 [nested relative link](./relative/nested)
 
-[link text](http://dev.nodeca.com)
+[link text](https://www.npmjs.com/package/http-server)
 
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
